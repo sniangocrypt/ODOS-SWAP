@@ -251,7 +251,7 @@ if chain == 4:
     aprove = "0x19cEeAd7105607Cd444F5ad10dd51356436095a1"  # контрак апрува для base
 
 
-private_key = "d619722ddd3afddc4f6fe4d60d76f610d6621579ca888c809f4e20ed22ec67e0"  # приватный ключ
+private_key = ""  # приватный ключ
 
 
 w3_async = AsyncWeb3(AsyncHTTPProvider(f"{rpc}"))  # РПС сети
